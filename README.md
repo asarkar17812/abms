@@ -1,4 +1,4 @@
-# Intro to Agent-Based Modeling:
+# Intro to Agent-Based Modeling (Audit; Graduate):
 
 * HW1: Basic Lotka-Volterra Implementation in NetLogo
 * HW2: Forest-fire Percolation Model in NetLogo
@@ -9,9 +9,11 @@
 * HW7: SIR Compartmental Model with Distinct Spatial Areas in NetLogo
 * HW8: SEIR Compartmental Model in NetLogo
 
-# Advanced Agent-Based Modeling:
+# Advanced Agent-Based Modeling (For Credit; Graduate):
 
-# Medical Ethics: 
+* HW1:
+
+# Medical Ethics:
 
 * Includes:
   * A non-technical presentation comparing the levels of complexity of three models of addiction, and their effectiveness in capturing the macroscopic dynamics of addiction.
