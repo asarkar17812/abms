@@ -11,7 +11,10 @@
 
 # Advanced Agent-Based Modeling (For Credit; Graduate):
 
-* HW1:
+* HW1: Why model? (What are the limitations of modeling? What should we be weary of, both from the technical and human perspectives, when creating models?)
+* HW2: Basic Dynamical System Equilibria & Stability Analysis
+* HW3: Further Equilibria & Stability Analysis and NetLogo Model of Lanchester Combat Theory
+* HW4: Game Theory, Demographic Games, and Agent_Zero
 
 # Medical Ethics:
 
