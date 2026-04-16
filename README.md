@@ -15,6 +15,7 @@
 * HW2: Basic Dynamical System Equilibria & Stability Analysis
 * HW3: Further Equilibria & Stability Analysis and NetLogo Model of Lanchester Combat Theory
 * HW4: Game Theory, Demographic Games, and Agent_Zero
+* HW5: The Sugarscape, Defeating Social Darwinism, and Diagonal Wavefronts
 
 # Medical Ethics:
 
